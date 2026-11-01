@@ -1,0 +1,12 @@
+[
+  {
+    "id": "s6",
+    "name": "السادس الإعدادي",
+    "order": 1,
+    "visible": true,
+    "exam_date": "2027-06-10",
+    "subjects": [
+      { "id": "arabic", "name": "اللغة العربية", "file": "content/s6/arabic.json", "v": 1 }
+    ]
+  }
+]
