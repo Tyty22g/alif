@@ -4,7 +4,7 @@
   "min_version": 1,
   "update_url": "",
   "update_notes": "",
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_msg": "",
   "ads_enabled": true,
   "telegram": "",
